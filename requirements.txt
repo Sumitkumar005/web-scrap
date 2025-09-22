@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+lxml
+python-slugify
+tqdm
+tenacity
